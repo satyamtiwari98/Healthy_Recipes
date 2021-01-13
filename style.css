@@ -1,0 +1,40 @@
+*{
+    font-family: Helvetica ;
+}
+body{
+    background-color: bisque;
+}
+header{
+    text-align: center;
+}
+
+
+img{
+    width:400px;
+    height:250px;
+    border-radius: 75px;
+
+}
+#des{
+    font-size: 20px;
+    text-align: center;
+}
+
+#cookingtime{
+    font-weight: bold;
+}
+
+.inte{
+    list-style: square;
+}
+#time{
+    color: grey;
+}
+#link{
+    color: seagreen ;
+}
+
+.head{
+    font-size: 60px;
+    text-align: center;
+}
